@@ -1,0 +1,8 @@
+[core]
+	editor = \"C:\\Users\\asole\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = harlanbrawer@gmail.com
+[alias]
+  mr = push -u origin HEAD
+[core]
+  ignorecase = false
